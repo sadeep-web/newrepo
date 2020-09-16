@@ -24,7 +24,7 @@ if($conn){
     die('error in db'.mysqli_error());
 }
 
-echo "hello";
+
 ?>
     
 </body>
